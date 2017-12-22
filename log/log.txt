@@ -1,0 +1,4 @@
+DBG  2017-12-22  19:13:58 LOG  log.cpp:53:main ---DBG---  = I'm Debug
+ERR  2017-12-22  19:13:58 LOG  log.cpp:54:main ---ERR---  = I'm Error
+RUN  2017-12-22  19:13:58 LOG  log.cpp:55:main ---INF---  = I'm Info
+WAR  2017-12-22  19:13:58 LOG  log.cpp:56:main ---WAR---  = I'm Warn
